@@ -1,5 +1,5 @@
 getgenv().Color = {
-    ["Name Hub"] = "Kill Hub | Project",
+    ["Name Hub"] = "Kill Hub | Project Instant Kill",
     ["image"] = 137725699438915,
     ["UiStroke"] = Color3.fromRGB(255, 255, 255),
     ["Primary"] = Color3.fromRGB(0,0,0),
